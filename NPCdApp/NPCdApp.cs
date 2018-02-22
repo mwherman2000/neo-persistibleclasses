@@ -1297,7 +1297,7 @@ namespace NeoPersistableClass
             bkey =               Helper.Concat(bkey, _bc).Concat(_bColon).Concat(_bStringType).Concat(_bEquals).Concat(nsk._className).Concat(_bSemiColon);
 
             bkey =               Helper.Concat(bkey, _bi).Concat(_bColon).Concat(_bBigIntegerType).Concat(_bColon).Concat(((BigInteger)(index)).AsByteArray()).Concat(_bSemiColon);
-            bkey =               Helper.Concat(bkey, _bf).Concat(_bColon).Concat(_bStringType).Concat(_bColon).Concat(fieldName);
+            bkey =               Helper.Concat(bkey, _bf).Concat(_bColon).Concat(_bStringType).Concat(_bColon).Concat(fieldName).Concat(_bSemiColon);
 
             bkey =               Helper.Concat(bkey, _bRightBrace);
 
@@ -1308,7 +1308,7 @@ namespace NeoPersistableClass
 
     /// <summary>
     /// Point class
-    /// Reference implementation of a NPC class consisting of a pair of x and y coorinates
+    /// Reference implementation of a NPC class consisting of a pair of x and y coordinates
     /// </summary>
     /// <seealso cref="NeoPersistableClass.NeoTrace" />
     public class Point : NeoTrace

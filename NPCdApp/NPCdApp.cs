@@ -335,6 +335,7 @@ namespace NeoPersistableClass
             if (args.Length > 0)
             {
                 maxIterations = (int)((byte[])args[0]).AsBigInteger();
+                NeoTrace.Trace("maxIterations", maxIterations);
             }
             if (maxIterations <= 0) maxIterations = 10;
             if (maxIterations > 20) maxIterations = 10;
@@ -347,6 +348,8 @@ namespace NeoPersistableClass
             byte[] executingUserScriptHash = ExecutionEngine.ExecutingScriptHash;
             NeoTrace.Trace("executingUserScriptHash", executingUserScriptHash);
             byte[] invokingUserScriptHash = GetInvokingUserScriptHash();
+            NeoTrace.Trace("invokingUserScriptHash", invokingUserScriptHash.Length, invokingUserScriptHash);
+            if (invokingUserScriptHash.Length == 0) invokingUserScriptHash = WIF2AccountAddressScriptHash; // neo-debugger
             NeoTrace.Trace("invokingUserScriptHash", invokingUserScriptHash);
 
             Point p4 = Point.New();
@@ -360,6 +363,7 @@ namespace NeoPersistableClass
             int iteration = 0;
             for (int index = 30; index < 40; index++)
             {
+                NeoTrace.Trace("index", index);
                 Point.Set(p4, index, -index);
                 Point.PutElement(p4, vau, index);
                 iteration++;
@@ -715,7 +719,7 @@ namespace NeoPersistableClass
             //vau._revision = revision;
             vau._userScriptHash = userScriptHash;
             vau._state = NeoEntityModel.EntityState.INIT;
-            LogExt("New(a,m,m,b,u).vau", vau);
+            LogExt("New(ba,m,m,b,u).vau", vau);
             return vau;
         }
 
@@ -738,7 +742,7 @@ namespace NeoPersistableClass
             //vau._revision = revision;
             vau._userScriptHash = userScriptHash;
             vau._state = NeoEntityModel.EntityState.INIT;
-            LogExt("New(a,m,m,b,u).vau", vau);
+            LogExt("New(sa,m,m,b,u).vau", vau);
             return vau;
         }
 
@@ -1176,7 +1180,7 @@ namespace NeoPersistableClass
             nsk._index = 0;
             nsk._fieldName = "";
             nsk._state = NeoEntityModel.EntityState.INIT;
-            LogExt("New(vau,cb)", nsk);
+            LogExt("New(vau,bc)", nsk);
             return nsk;
         }
 
@@ -1204,7 +1208,7 @@ namespace NeoPersistableClass
             nsk._index = 0;
             nsk._fieldName = "";
             nsk._state = NeoEntityModel.EntityState.INIT;
-            LogExt("New(vau,cs).nsk", nsk);
+            LogExt("New(vau,sc).nsk", nsk);
             return nsk;
         }
 

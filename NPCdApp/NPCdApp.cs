@@ -67,7 +67,7 @@ namespace NeoPersistableClass
     /// test1   [no args]     - Dump miscellaneous variables to the log
     /// test2   [no args]     - NPC Level 1 test cases: Create 3 Points and a line. Add two Points. Log the results.
     /// test3   [no args]     - NPC Level 2/3 test cases: Create 3 Points and test NPC Level 3 entity persistence. Log the results.
-    /// tets4   [no args]     - NPC Level 2/3 test cases: Test IsNull(), IsMissing() and IsExtended(). Log the results.
+    /// test4   [no args]     - NPC Level 2/3 test cases: Test IsNull(), IsMissing() and IsExtended(). Log the results.
     /// test5   [no args]     - NPC Level 4 test cases: Test NeoStorageKeys. Log the results.
     /// test6   [nIterations] - NPC Level 4 test cases: Test NeoStorageKeys. Log the results.
     /// </summary>

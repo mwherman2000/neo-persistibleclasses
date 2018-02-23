@@ -1,0 +1,17 @@
+Appendix A - What are Blue Papers?
+
+Reference: https://en.wikipedia.org/wiki/White_paper#Variants
+Reference: http://www.genuinewriting.com/blue_paper.html
+
+Quoting from http://www.genuinewriting.com/blue_paper.html:
+
+To prepare a blue paper, one must first collect every technical aspect of a new technology (what it is, how it is useful, what its potential implications are, etc.) or the technical specifications of a new piece of equipment (components, features, uses, etc.)
+
+The general outline for a blue paper consists of:
+
+- Introduction – brief description of the technology or equipment being discussed.
+- Features or Characteristics – describes the parameters and scope of the new technology or the functional features of the equipment being discussed.
+- Uses – how the new technology or equipment can be used.
+
+Implications – effects the new technology or equipment might have on society and its industry
+Blue papers are usually written at higher levels of detail as they are used primarily by people in the particular technological field in question, rather than by the public at large. Although you are writing to industry insiders for the most part, it is still advisable to define seldom used words and phrases or to explain new concepts or concepts that have limited public exposure when writing a blue paper.

@@ -1,6 +1,6 @@
 0x7074acf3f06dd3f456e11053ebf61c5b04b07ebc
 
-NPCdApp - NEO Persistable Class (NPC) Framework Version 0.1 Reference Implementation
+NPCdApp - NEO Persistable Class (NPC) Framework Version 1.0 Reference Implementation
 
 
 

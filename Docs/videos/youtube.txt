@@ -10,3 +10,18 @@ NPC
 NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #2 (closing date: February 24, 2018) to demonstrate NPC’s
 - Unique object-oriented programming style for C#.NEO smart contract development 
 - Layered entity persistence model
+
+
+https://www.youtube.com/watch?v=nEgWFsM9vqg
+
+Here's a cool C#.NEO Smart Contract video: https://www.youtube.com/watch?v=nEgWFsM9vqg. I'll talk more about this at our meeting on March 14
+
+https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md#how-to-run-npcdapp-10
+
+Michael Herman
+?
+ 
+@mwherman2000
+ 19s19 seconds ago
+More
+Checkout How to run NPCdApp 1.0 - CoZ dApp Competition #2 https://www.youtube.com/watch?v=nEgWFsM9vqg @NEO_Blockchain @NEO_council @NeoToronto #blockchain #neo #smartcontracts

@@ -1,0 +1,12 @@
+How to run NPCdApp 1.0 - CoZ dApp Competition #2
+
+What is NPCdApp 1.0?
+
+NPC
+- NEO Persistable Classes
+- Long name: NEO Persistable Class (NPC) Framework 1.0
+- Byline: An Efficient Object-Oriented Framework   for C#.NEO Smart Contract Development 
+
+NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #2 (closing date: February 24, 2018) to demonstrate NPC’s
+- Unique object-oriented programming style for C#.NEO smart contract development 
+- Layered entity persistence model

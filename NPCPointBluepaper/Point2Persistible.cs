@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NeoPesistenceClasses2
 {
-    public class Point : NeoTrace /* Level 2 Persisted */
+    public class Point : NeoTrace /* Level 2 Persistible */
     {
         private BigInteger _x;
         private BigInteger _y;
@@ -40,7 +40,6 @@ namespace NeoPesistenceClasses2
         private Point()
         {
         }
-
         private static Point _Initialize(Point p)
         {
             p._x = 0;
@@ -49,7 +48,6 @@ namespace NeoPesistenceClasses2
             LogExt("_Initialize(p).p", p);
             return p;
         }
-
         public static Point New()
         {
             Point p = new Point();
@@ -57,7 +55,6 @@ namespace NeoPesistenceClasses2
             LogExt("New().p", p);
             return p;
         }
-
         public static Point New(int x, int y)
         {
             Point p = new Point();
@@ -67,7 +64,6 @@ namespace NeoPesistenceClasses2
             LogExt("New(x,y).p", p);
             return p;
         }
-
         public static Point Null()
         {
             Point p = new Point();

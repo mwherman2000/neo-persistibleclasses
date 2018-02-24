@@ -6,20 +6,13 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NeoPesistenceClasses4
+namespace NeoCollectableClasses4
 {
     public static class NeoEntityModel /* Level 4 Collectible */
     {
         public enum EntityState
         {
-            NULL,
-            INIT,
-            SET,
-            PUTTED,
-            GETTED,
-            MISSING,
-            TOMBSTONED,
-            NOTAUTHORIZED /* Future */
+            NULL, INIT, SET, PUTTED, GETTED, MISSING, TOMBSTONED, NOTAUTHORIZED /* Future Work*/
         }
 
         public static BigInteger AsBigInteger(this EntityState state)
@@ -28,12 +21,14 @@ namespace NeoPesistenceClasses4
             BigInteger bis = istate;
             return bis;
         }
-
         public static EntityState BytesToEntityState(byte[] bsta)
         {
             int ista = (int)bsta.AsBigInteger();
             NeoEntityModel.EntityState sta = (NeoEntityModel.EntityState)ista;
             return sta;
         }
+
+        public static readonly byte[] NullScriptHash = "".ToScriptHash();
+        public static readonly byte[] NullByteArray = "".AsByteArray();
     }
 }

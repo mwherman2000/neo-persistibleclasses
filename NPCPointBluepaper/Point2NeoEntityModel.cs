@@ -8,16 +8,11 @@ using System.Threading.Tasks;
 
 namespace NeoPesistenceClasses2
 {
-    public static class NeoEntityModel /* Level 2 Persisted */
+    public static class NeoEntityModel /* Level 2 Persistible */
     {
         public enum EntityState
         {
-            NULL,
-            INIT,
-            SET,
-            PUTTED,
-            GETTED,
-            MISSING
+            NULL, INIT, SET, PUTTED, GETTED, MISSING
         }
 
         public static BigInteger AsBigInteger(this EntityState state)

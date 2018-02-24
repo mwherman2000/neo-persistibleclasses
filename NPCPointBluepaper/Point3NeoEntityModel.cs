@@ -12,13 +12,7 @@ namespace NeoPesistenceClasses3
     {
         public enum EntityState
         {
-            NULL,
-            INIT,
-            SET,
-            PUTTED,
-            GETTED,
-            MISSING,
-            TOMBSTONED
+            NULL, INIT, SET, PUTTED, GETTED, MISSING, TOMBSTONED
         }
 
         public static BigInteger AsBigInteger(this EntityState state)
@@ -27,7 +21,6 @@ namespace NeoPesistenceClasses3
             BigInteger bis = istate;
             return bis;
         }
-
         public static EntityState BytesToEntityState(byte[] bsta)
         {
             int ista = (int)bsta.AsBigInteger();

@@ -352,13 +352,13 @@ namespace NeoPersistableClass
             if (invokingUserScriptHash.Length == 0) invokingUserScriptHash = WIF2AccountAddressScriptHash; // neo-debugger
             NeoTrace.Trace("invokingUserScriptHash", invokingUserScriptHash);
 
-            Point p4 = Point.New();
-            Point.Set(p4, 10, 20);
-            Point.Log("p4", p4);
-
             string app = "FooBar";
             NeoVersionedAppUser vau = NeoVersionedAppUser.New(app, 1, 0, 2034, invokingUserScriptHash);
             NeoVersionedAppUser.Log("test6.vau", vau);
+
+            Point p4 = Point.New();
+            Point.Set(p4, 10, 20);
+            Point.Log("p4", p4);
 
             int iteration = 0;
             for (int index = 30; index < 40; index++)
@@ -801,7 +801,7 @@ namespace NeoPersistableClass
     /// Used to manage NeoStorageKeys (NSKs) and the serialization of NSKs into
     /// NeoStorageKey Object Notation (NSKON)
     /// </summary>
-     public class NeoStorageKey
+    public class NeoStorageKey
     {
         // NSKON = NeoStorageKey Object Notation
         //string key = "{" + String.Format("a:T={0},M:T={1},M:T={2},b:T={3}r:T={4},u:T={5},c:T={6},i:T={7},f:T={8}",

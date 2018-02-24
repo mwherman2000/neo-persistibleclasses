@@ -21,7 +21,7 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
   * **TIP** If you watch the video, you may not have to run NPCdApp.
 
-    [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/0.jpg)](https://www.youtube.com/watch?v=nEgWFsM9vqg)
+  [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/0.jpg)](https://www.youtube.com/watch?v=nEgWFsM9vqg)
 
 * ...or checkout the underlying presentation but the video is better (PDF):
 

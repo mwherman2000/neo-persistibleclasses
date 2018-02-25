@@ -15,10 +15,6 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 * Unique object-oriented programming style for C#.NEO smart contract development 
 * Layered entity persistence model
 
-Source code: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs) (C#)
-
-Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/raw/master/Help/neo-persistibleclasses.chm) (CHM download)
-
 ## How to run NPCdApp 1.0?
 
 * Watch this video: [How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://www.youtube.com/watch?v=nEgWFsM9vqg) (10 minutes)
@@ -40,6 +36,14 @@ Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persisti
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
 
     [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/1.jpg)](     https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NeoPersistableClasses-Bluepaper%20v0.21-Recording.pdf)
+
+## Downloads
+
+Source code: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs) (C#)
+
+Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/raw/master/Help/neo-persistibleclasses.chm) (CHM download)
+
+**NOTE** If the following pop-dialog box appears, uncheck `Always ask before opening` to enable the compiled help file to open properly. The click `Open`.
 
 
 ## NPC Levels of Layered Persistance Supported

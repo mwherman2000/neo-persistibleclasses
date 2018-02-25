@@ -44,7 +44,7 @@ There are a number of different levels when it comes to applying the NPC Framewo
 
 Michael Herman (Toronto)
 
-NEO City of Zion (CoZ) Developer (https://neo.org/team)
+NEO City of Zion (CoZ) Developer (https://neo.org/home/team)
 
 Michael Herman is a CoZ Developer who contributes to several NEO Blockchain projects including:
 * NEO developer tool suite (neo-debugger and neo-gui-developer projects)

@@ -31,7 +31,7 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
 * Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://www.youtube.com/watch?v=zG_BcwTqrO4) (90 minutes)
 
-   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/0.jpg)](https://www.youtube.com/watch?v=zG_BcwTqrO4)
+   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/0.jpg)](https://www.youtube.com/watch?v=zG_BcwTqrO4) 
 
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
 

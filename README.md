@@ -15,6 +15,10 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 * Unique object-oriented programming style for C#.NEO smart contract development 
 * Layered entity persistence model
 
+Source code: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs) (C#)
+
+Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/raw/master/Help/neo-persistibleclasses.chm) (CHM download)
+
 ## How to run NPCdApp 1.0?
 
 * Watch this video: [How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://www.youtube.com/watch?v=nEgWFsM9vqg) (10 minutes)

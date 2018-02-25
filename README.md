@@ -39,13 +39,13 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
 ## Downloads
 
-Source code: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs) (C#)
+* Source code: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs) (C#)
 
-Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/raw/master/Help/neo-persistibleclasses.chm) (CHM download)
+* Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persistibleclasses/raw/master/Help/neo-persistibleclasses.chm) (CHM download)
 
-**NOTE** If the following pop-dialog box appears, uncheck `Always ask before opening` to enable the compiled help file to open properly. The click `Open`.
+  **NOTE** If the following pop-dialog box appears, uncheck `Always ask before opening` to enable the compiled help file to open properly. The click `Open`.
 
-![NPCdApp Smart Contract CHM](https://raw.githubusercontent.com/mwherman2000/neo-persistibleclasses/master/Docs/images/OpenFile-CHM.png)
+  ![NPCdApp Smart Contract CHM](https://raw.githubusercontent.com/mwherman2000/neo-persistibleclasses/master/Docs/images/OpenFile-CHM.png)
 
 
 ## NPC Levels of Layered Persistance Supported

@@ -27,6 +27,17 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
     [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)
 
+## NEO Persistable Class (NPC) 1.0: Deep Dive (NEO Community Bluepaper)
+
+* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://www.youtube.com/watch?v=zG_BcwTqrO4) (90 minutes)
+
+   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/0.jpg)](https://www.youtube.com/watch?v=zG_BcwTqrO4)
+
+* ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
+
+    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/1.jpg)](     https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NeoPersistableClasses-Bluepaper%20v0.21-Recording.pdf)
+
+
 ## NPC Levels of Layered Persistance Supported
 
 There are a number of different levels when it comes to applying the NPC Framework to classes in C#.NEO. There are:
@@ -38,7 +49,7 @@ There are a number of different levels when it comes to applying the NPC Framewo
 *	NPC Level 4 Collectable
 *	NPC Level 5 Extendible (roadmap)
 *	NPC Level 6 Authorized (roadmap)
-*   NPC Level 7 Optimized (roadmap)
+* NPC Level 7 Optimized (roadmap)
 
 ## Who is Michael Herman?
 

@@ -45,6 +45,8 @@ Help file: [NPCdApp Smart Contract](https://github.com/mwherman2000/neo-persisti
 
 **NOTE** If the following pop-dialog box appears, uncheck `Always ask before opening` to enable the compiled help file to open properly. The click `Open`.
 
+![NPCdApp Smart Contract CHM](https://raw.githubusercontent.com/mwherman2000/neo-persistibleclasses/master/Docs/images/OpenFile-CHM.png)
+
 
 ## NPC Levels of Layered Persistance Supported
 

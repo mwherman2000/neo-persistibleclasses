@@ -17,6 +17,16 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
 ## How to run NPCdApp 1.0?
 
+### Parameters
+
+* Script Hash: `0x7074acf3f06dd3f456e11053ebf61c5b04b07ebc` (testnet)
+
+* `public static object Main(string operation, params object[] args)` ([link to source](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs#L96))
+
+* `win-gui` parameter types: `0710`
+
+### Video Tutorial
+
 * Watch this video: [How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://www.youtube.com/watch?v=nEgWFsM9vqg) (10 minutes)
 
   * **TIP** If you watch the video, you may not have to run NPCdApp.
@@ -26,14 +36,6 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
 
     [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)
-
-### Parameters
-
-* Script Hash: `0x7074acf3f06dd3f456e11053ebf61c5b04b07ebc` (testnet)
-
-* `public static object Main(string operation, params object[] args)` ([link to source](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs#L96))
-
-* `win-gui` parameter type: `0710`
 
 ## NEO Persistable Class (NPC) 1.0: Deep Dive (NEO Community Bluepaper)
 

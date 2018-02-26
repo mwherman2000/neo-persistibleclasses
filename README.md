@@ -71,7 +71,7 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
 ## NPC Levels of Layered Persistance Supported
 
-There are a number of different levels when it comes to applying the NPC Framework to classes in C#.NEO. There are:
+There are a number of different levels when it comes to applying the NPC Framework to classes in C#.NPC. There are:
 
 *	NPC Level 0 Basic
 *	NPC Level 1 Managed

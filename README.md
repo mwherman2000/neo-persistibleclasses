@@ -109,3 +109,5 @@ Michael is also the founder of the first Canadian NEO Blockchain Meetup group (N
 ### Feedback
 
 * >In just 10 days you [made] tons of progress, you're probably [one of] the fastest learners around here. 
+* >Great slides and videos, Michael Herman. Thanks
+* >It is truly worth video, thanks and congrulations for the attention.

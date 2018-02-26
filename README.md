@@ -27,6 +27,14 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
     [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)
 
+### Parameters
+
+* Script Hash: `0x7074acf3f06dd3f456e11053ebf61c5b04b07ebc` (testnet)
+
+* `public static object Main(string operation, params object[] args)` ([link to source](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/NPCdApp/NPCdApp.cs#L96))
+
+* `win-gui` parameter type: `0710`
+
 ## NEO Persistable Class (NPC) 1.0: Deep Dive (NEO Community Bluepaper)
 
 * Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://www.youtube.com/watch?v=zG_BcwTqrO4) (90 minutes)

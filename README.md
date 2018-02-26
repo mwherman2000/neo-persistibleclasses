@@ -3,7 +3,7 @@ NEO Persistable Classes - An Efficient Object-Oriented Framework for C#.NEO Smar
 
 ORIGINAL PROJECT for my CoZ dAPP Competition #2 Submission (with the mispelled project name)
 
-CURRENT PROJECT can be found [here](https://github.com/mwherman2000/neo-persistableclasses/edit/master/README.md) [https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md](https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md).
+CURRENT PROJECT can be found [here](https://github.com/mwherman2000/neo-persistableclasses/edit/master/README.md) ([https://github.com/mwherman2000/neo-persistableclasses/edit/master/README.md](https://github.com/mwherman2000/neo-persistableclasses/edit/master/README.md)).
 
 The mwherman2000/neo-persistibleclasses project is the home of the NEO Persistable Class Framework (NPC).
 

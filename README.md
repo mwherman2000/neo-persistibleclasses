@@ -1,6 +1,10 @@
 # neo-persistibleclasses
 NEO Persistable Classes - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development
 
+ORIGINAL PROJECT for my CoZ dAPP Competition #2 Submission (with the mispelled project name)
+
+CURRENT PROJECT can be found [here](https://github.com/mwherman2000/neo-persistableclasses/edit/master/README.md).
+
 The mwherman2000/neo-persistibleclasses project is the home of the NEO Persistable Class Framework (NPC).
 
 ## What is NPC?

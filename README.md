@@ -39,7 +39,7 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 
 ## What is the subset of C# supported by the NEO compiler and NEO VM?
 
-* Watch this 20-minute segement of the video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://www.youtube.com/watch?v=zG_BcwTqrO4&t=4m30s) (first 20 minutes)
+* Watch this 20-minute segement of the video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://www.youtube.com/watch?v=zG_BcwTqrO4&t=4m30s) (first 20 minutes starting at timecode [4:30](https://www.youtube.com/watch?v=zG_BcwTqrO4&t=4m30s))
 
    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3)](https://img.youtube.com/vi/zG_BcwTqrO4/0.jpg)](https://www.youtube.com/watch?v=zG_BcwTqrO4&t=4m30s) 
 

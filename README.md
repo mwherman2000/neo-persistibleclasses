@@ -1,5 +1,5 @@
 # neo-persistibleclasses
-NEO Persistable Classes - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development
+NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development (ORIGINAL)
 
 ORIGINAL PROJECT for my CoZ dAPP Competition #2 Submission (with the mispelled project name)
 

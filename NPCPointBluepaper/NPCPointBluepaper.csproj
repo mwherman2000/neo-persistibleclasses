@@ -217,7 +217,7 @@
   <ItemGroup>
     <Compile Include="Point4NeoVersionedAppUser.cs" />
     <Compile Include="Point4NeoStorageKey.cs" />
-    <Compile Include="Point0Fields.cs" />
+    <Compile Include="Point0Basic.cs" />
     <Compile Include="Point4Collectable.cs" />
     <Compile Include="Point4NeoEntityModel.cs" />
     <Compile Include="Point3NeoEntityModel.cs" />

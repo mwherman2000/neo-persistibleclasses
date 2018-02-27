@@ -11,10 +11,5 @@ namespace NeoPesistenceClasses0
     {
         private BigInteger _x;
         private BigInteger _y;
-
-        // Factory methods
-        private Point()
-        {
-        }
     }
 }

@@ -87,7 +87,7 @@ There are a number of different levels when it comes to applying the NPC Framewo
 
 ## Who is Michael Herman?
 
-Michael Herman (Toronto)
+Michael Herman (Toronto) ([photo](https://raw.githubusercontent.com/mwherman2000/neo-dotnetquickstart/master/EN-us/images/mwherman2000.jpg))
 
 NEO City of Zion (CoZ) Developer (https://neo.org/home/team)
 
@@ -105,6 +105,8 @@ Michael is also the founder of the first Canadian NEO Blockchain Meetup group (N
 * G: https://github.com/mwherman2000/neo-windocs
 * M: https://www.meetup.com/NEO-Blockchain-Toronto
 * T: https://www.twitter.com/neotoronto
+* B: http://www.hyperonomy.com
+* L: https://www.linkedin.com/in/mwherman/
 
 ### Feedback
 

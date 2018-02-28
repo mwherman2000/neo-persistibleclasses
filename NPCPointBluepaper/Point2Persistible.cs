@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NeoPesistenceClasses2
 {
-    public class Point : NeoTrace /* Level 2 Persistible */
+    public class Point : NeoTrace /* Level 2 Persistable */
     {
         private BigInteger _x;
         private BigInteger _y;

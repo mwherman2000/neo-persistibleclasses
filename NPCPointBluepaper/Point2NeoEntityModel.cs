@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NeoPesistenceClasses2
 {
-    public static class NeoEntityModel /* Level 2 Persistible */
+    public static class NeoEntityModel /* Level 2 Persistable */
     {
         public enum EntityState
         {
